@@ -1,0 +1,47 @@
+.body {
+    background-color: red;
+    background-image: url("background.jpg");
+	padding: 30px;
+	padding-top: 100px;
+	padding-bottom: 100%;
+	text-align: left;
+	min-height: 100%;
+	margin-bottom: -50px;
+	font-size: 20px;
+}
+
+.github-button {
+  background: url('GitHub_Logo.png');
+  padding-left: auto;
+  height: 30px;
+  width: 93px;
+  margin: auto;
+  border-radius: 4px;
+}
+
+.linkedin-button {
+	background: url('Linkedin_Logo.png');
+	padding-left: auto;
+	height: 29px;
+	width: 118px;
+	margin: 0;
+	border-radius: 4px;
+}
+
+.youtube-button {
+	background: url('YouTube-logo-full_color.png');
+	padding-left: auto;
+	height: 29px;
+	width: 60px;
+	margin: 0;
+	border-radius: 4px;
+}
+
+.facebook-button {
+	background: url('new-facebook-logo-2015.png');
+	padding-left: auto;
+	height: 29px;
+	width: 88px;
+	margin: 0;
+	border-radius: 4px;
+}

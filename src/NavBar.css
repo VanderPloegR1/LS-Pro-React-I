@@ -1,0 +1,21 @@
+.navbar {
+	font-family: courier, sans-serif;
+	height: 65px;
+	width: 100%;
+	background-color: #141f14;
+	text-align: center;
+	font-size: 50px;
+	color:white ;
+	position: fixed;
+}
+
+.footer {
+	font-family: courier, sans-serif;
+	height: 65px;
+	width: 100%;
+	background-color: #141f14;
+	text-align: center;
+	font-size: 50px;
+	color:white ;
+	position: static;
+}
